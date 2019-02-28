@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="book_your_light">Book your light</string>
+    <string name="flight">Flight</string>
+    <string name="hotel">Hotel</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="departure">Departure</string>
+    <string name="passengers">Passengers</string>
+    <string name="search_flight">Search Flight</string>
+    <string name="beast_offfer_get_to_rup">Beast Offfer Get To rup!</string>
+    <string name="erup">Erup</string>
+    <string name="_456">456$</string>
+</resources>

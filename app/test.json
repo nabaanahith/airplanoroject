@@ -1,0 +1,180 @@
+[
+  {
+    "id": "dad6fde0-3851-11e9-bc2b-21966d8072e9",
+    "price": "439.74",
+    "totalDuration": "26 hrs 15 min",
+    "stops": 1,
+    "airlineLogo": [
+      "https://static.flyinstatic.com/img/flights/1x/airline-logos/QR.png",
+      "https://static.flyinstatic.com/img/flights/1x/airline-logos/QR.png"
+    ],
+    "logoCover": "https://static.flyinstatic.com/img/flights/1x/airline-logos/QR.png",
+    "depCityName": [
+      "Baghdad",
+      "Doha"
+    ],
+    "arrCityName": [
+      "Doha",
+      "Beirut"
+    ],
+    "depDateAndTime": [
+      "2019-02-24T22:00:00",
+      "2019-02-25T19:40:00"
+    ],
+    "arrDateAndTime": [
+      "2019-02-24T22:00:00",
+      "2019-02-25T19:40:00"
+    ],
+    "airlineName": [
+      "Qatar Airways",
+      "Qatar Airways"
+    ],
+    "flightNumber": [
+      "443",
+      "418"
+    ],
+    "layOverTime": [
+      "19 ساعات 41 دقائق",
+      ""
+    ],
+    "layOverMinutes": [
+      1181,
+      0
+    ],
+    "layOverCity": [
+      "Doha",
+      "Beirut"
+    ],
+    "arrAirportName": [
+      "Hamad International Airport",
+      "Beirut Rafic Hariri International Airport"
+    ],
+    "flightModel": [
+      "Airbus A320",
+      "Airbus A320"
+    ]
+  },
+  {
+    "id": "dad6fde1-3851-11e9-bc2b-21966d8072e9",
+    "price": "1222.75",
+    "totalDuration": "38 hrs 25 min",
+    "stops": 2,
+    "airlineLogo": [
+      "https://static.flyinstatic.com/img/flights/1x/airline-logos/QR.png",
+      "https://static.flyinstatic.com/img/flights/1x/airline-logos/QR.png",
+      "https://static.flyinstatic.com/img/flights/1x/airline-logos/ME.png"
+    ],
+    "logoCover": "https://static.flyinstatic.com/common/themes/v2/img/multiAirline.png",
+    "depCityName": [
+      "Baghdad",
+      "Doha",
+      "Amman"
+    ],
+    "arrCityName": [
+      "Doha",
+      "Amman",
+      "Beirut"
+    ],
+    "depDateAndTime": [
+      "2019-02-24T22:00:00",
+      "2019-02-25T16:20:00",
+      "2019-02-26T10:15:00"
+    ],
+    "arrDateAndTime": [
+      "2019-02-24T22:00:00",
+      "2019-02-25T16:20:00",
+      "2019-02-26T10:15:00"
+    ],
+    "airlineName": [
+      "Qatar Airways",
+      "Qatar Airways",
+      "Middle East Airlines"
+    ],
+    "flightNumber": [
+      "443",
+      "3802",
+      "3752"
+    ],
+    "layOverTime": [
+      "16 ساعات 21 دقائق",
+      "15 ساعات 35 دقائق",
+      ""
+    ],
+    "layOverMinutes": [
+      981,
+      935,
+      0
+    ],
+    "layOverCity": [
+      "Doha",
+      "Amman",
+      "Beirut"
+    ],
+    "arrAirportName": [
+      "Hamad International Airport",
+      "Queen Alia International Airport",
+      "Beirut Rafic Hariri International Airport"
+    ],
+    "flightModel": [
+      "Airbus A320",
+      "Boeing 777-300ER",
+      "Airbus A320"
+    ]
+  },
+  {
+    "id": "dad6fde2-3851-11e9-bc2b-21966d8072e9",
+    "price": "435.82",
+    "totalDuration": "24 hrs 25 min",
+    "stops": 1,
+    "airlineLogo": [
+      "https://static.flyinstatic.com/img/flights/1x/airline-logos/QR.png",
+      "https://static.flyinstatic.com/img/flights/1x/airline-logos/ME.png"
+    ],
+    "logoCover": "https://static.flyinstatic.com/common/themes/v2/img/multiAirline.png",
+    "depCityName": [
+      "Baghdad",
+      "Doha"
+    ],
+    "arrCityName": [
+      "Doha",
+      "Beirut"
+    ],
+    "depDateAndTime": [
+      "2019-02-24T22:00:00",
+      "2019-02-25T19:15:00"
+    ],
+    "arrDateAndTime": [
+      "2019-02-24T22:00:00",
+      "2019-02-25T19:15:00"
+    ],
+    "airlineName": [
+      "Qatar Airways",
+      "Middle East Airlines"
+    ],
+    "flightNumber": [
+      "443",
+      "437"
+    ],
+    "layOverTime": [
+      "19 ساعات 16 دقائق",
+      ""
+    ],
+    "layOverMinutes": [
+      1156,
+      0
+    ],
+    "layOverCity": [
+      "Doha",
+      "Beirut"
+    ],
+    "arrAirportName": [
+      "Hamad International Airport",
+      "Beirut Rafic Hariri International Airport"
+    ],
+    "flightModel": [
+      "Airbus A320",
+      "Airbus A320"
+    ]
+  }
+
+]
